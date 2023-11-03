@@ -1,7 +1,6 @@
-import solutions/year2022day01
-import gleam/io
+//import solutions/year2022day01
 
 pub fn main() {
-  year2022day01.solution()
-  |> io.debug
+  // year2022day01.part_2()
+  "Hello, world!"
 }

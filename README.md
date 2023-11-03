@@ -36,4 +36,4 @@ This time - GLEAM
 
 ## Previous years
 
-:star::x: [2022 - Day 1](/src/solutions/year2022day01.gleam)
+:star::star: [2022 - Day 1](/src/solutions/year2022day01.gleam)
